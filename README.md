@@ -1,6 +1,6 @@
-# ida-dfg
+# DataFlowAnalysis-miasm
 
-IDA Pro data-flow graph generator
+Data-flow graph & Def-use graph generator
 
 Tested with IDA Pro 7.6 and miasm 7ee593d
 
